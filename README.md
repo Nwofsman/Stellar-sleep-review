@@ -15,15 +15,21 @@ Ready to ditch the tossing and turning and embrace the sleep of your dreams? Div
 Stellar Sleep is a sleep psychology app that helps you achieve permanent sleep improvement using psychological principles. It is supported by science and validated by leading sleep researchers. Stellar Sleep employs a scientifically supported method, cognitive behavioural therapy for insomnia (CBT-I), to improve sleep quality and duration. CBT-I is a front-end, leading physician-recommended treatment for insomnia and is about times more effective than sleeping medication.
 
 ## How Does Stellar Sleep Work?
+![How Does Stellar Sleep Work](https://github.com/user-attachments/assets/9d036ecd-e78e-40da-ab29-b37562853142)
+
 Unlike traditional sleep aids or medications, Stellar Sleep doesn't focus on directly inducing sleep. Instead, it utilizes cognitive behavioural therapy for insomnia (CBT-I), a clinically proven approach to address the underlying causes of sleep problems.
 You will understand better how Stellar Sleep functions by reading the section of this article about the features of Stellar Sleep.
 
 [Click Here Now to Try Out Stellar Sleep](rebrand.ly/stellar-sleep-github)
 
 ## Who owns Stellar Sleep?
+![Who owns Stellar Sleep](https://github.com/user-attachments/assets/3f1852fd-94b0-49e2-b62d-4a9e445cc0d9)
+
 Stellar Sleep was developed by a team of Harvard graduates, George Wang and Edrei Chua, who suffered from chronic insomnia themselves and wanted to create a comprehensive solution that addresses the root causes of insomnia.
 
 ## How to Sign Up for Stellar Sleep:
+![Who owns Stellar Sleep](https://github.com/user-attachments/assets/3f1852fd-94b0-49e2-b62d-4a9e445cc0d9)
+
 To sign up for Stellar Sleep, you need to follow these simple steps:
 + Firstly [Click Here](rebrand.ly/stellar-sleep-github)
 + You will be taken to the website where you will be required to complete the sleep questionnaire.
@@ -34,6 +40,8 @@ To sign up for Stellar Sleep, you need to follow these simple steps:
 + Start your personalized program and record your sleep daily.
 
 ## Stellar Sleep Diagnostics:
+![Stellar Sleep Diagnostics](https://github.com/user-attachments/assets/7ccf7cb2-f580-4c7d-b0de-8509f3074f5b)
+
 Diagnostics involves the process of identifying the cause and nature of a problem, or in this case sleeping disorder. Sleep disorders vary more than a lot of people think. They vary in terms of severity, cause, associated health impact and physical effects.
 
 Stellar Sleep has a unique way of performing diagnostics on users. You can attest to this by signing up. After signing up for Stellar Sleep, before anything else, you're given a survey. This survey is called the sleep quiz and aims to determine if you have any sleep disorder at all, the exact type of sleep disorder, and the severity of the disorder. After the survey, you will be shown all the determined info about sleep health as well as a recommended treatment program.
@@ -41,6 +49,8 @@ Stellar Sleep has a unique way of performing diagnostics on users. You can attes
 To take the sleep quiz and find out the current state of your sleep health >>[Click Here](rebrand.ly/stellar-sleep-github)<<
 
 ## Stellar Sleep Features:
+![Stellar Sleep Features](https://github.com/user-attachments/assets/b16baa4c-1e47-4b50-b508-4816d9cd700f)
+
 The following are features and specs of Stellar Sleep:
 
 + **Initial sleep quiz**: This quiz gathers information about your sleep patterns, habits, and challenges, and forms the foundation of your personalized program.
@@ -59,6 +69,8 @@ Educational modules: Informative content on sleep hygiene, relaxation techniques
 + **Stellar Sleep Customer Service**: Stellar Sleep has an active customer service platform where users can lodge complaints and make inquiries on any area of confusion or discomfort in using the app
 
 ## Pros and Cons of Stellar Sleep:
+![Pros and Cons of Stellar Sleep](https://github.com/user-attachments/assets/8475c1b0-e175-4485-a69b-d58aa93f0210)
+
 ### Pros:
 + It is supported by science, validated by leading sleep researchers and scientists in its approach of using CBT-I technology.
 
@@ -90,10 +102,15 @@ They also offer a financial aid package. You can submit a ticket to learn more a
 
 ## Stellar Sleep Customer Reviews:
 Here are some Stellar Sleep customer reviews sourced from Google Play Store and Apple Store:
+![Stellar Sleep Customer Reviews](https://github.com/user-attachments/assets/25bc7146-dd7a-4993-8233-c61b61f4626b)
+
+![Stellar Sleep Customer Reviews](https://github.com/user-attachments/assets/01b8a22f-e572-4e4b-9750-b3e6d0149c19)
 
 **Important Note**: If you're reading this article and you want to sign up for Stellar Sleep >>[Click Here](rebrand.ly/stellar-sleep-github)<< and get to use Stellar Sleep free for 7 days.
 
 ## Is Stellar Sleep Legit?
+![Is Stellar Sleep Legit](https://github.com/user-attachments/assets/a50b6421-a483-49b9-b0ed-8c4ef9b5d749)
+
 Short Answer, Yes
 Long Answer, The software which Stellar Sleep uses in their treatment for insomnia is widely known to be effective and enduring. By this, I mean a scientifically supported method, cognitive behavioural therapy for insomnia (CBT-I). 
 
