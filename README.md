@@ -10,6 +10,8 @@ Ready to ditch the tossing and turning and embrace the sleep of your dreams? Div
 <span style="font-family: helvetica, arial, sans-serif;"><a href="https://rebrand.ly/stellar-sleep-github"><img class="aligncenter loaded" src="https://i.imgur.com/XSo2dvH.png" data-lazy="true" /></a></span>
 
 ## What is Stellar Sleep?
+![Image](https://github.com/user-attachments/assets/79181aaa-5f0d-4439-982b-9164bf3be1d5)
+
 Stellar Sleep is a sleep psychology app that helps you achieve permanent sleep improvement using psychological principles. It is supported by science and validated by leading sleep researchers. Stellar Sleep employs a scientifically supported method, cognitive behavioural therapy for insomnia (CBT-I), to improve sleep quality and duration. CBT-I is a front-end, leading physician-recommended treatment for insomnia and is about times more effective than sleeping medication.
 
 ## How Does Stellar Sleep Work?
